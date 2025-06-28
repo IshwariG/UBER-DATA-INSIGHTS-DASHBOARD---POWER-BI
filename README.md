@@ -60,5 +60,17 @@ This project focuses on converting raw Uber trip data into visual stories that c
 
 ---
 
-## 📁 Project Structure
+## 🙋‍♀️ Author
+
+**Ishwari Gurde**  
+Aspiring Data Analyst  
+📫 [LinkedIn](www.linkedin.com/in/ishwari-gurde-86657a2a2)  
+📧 gurdeishwari294@gmail.com 
+---
+
+## 📎 Acknowledgements
+
+- Uber (for dataset structure)
+- Power BI Community
+- Kaggle datasets 
 
