@@ -11,10 +11,15 @@ An interactive dashboard developed using Power BI to analyze Uber ride data. The
 
 Key KPIs Displayed on Dashboard
 🔢 Total Bookings – Number of completed trip records.
+
 💰 Total Booking Value – Combined fare of all bookings.
+
 📏 Average Trip Distance – Mean distance covered per trip.
+
 💵 Average Booking Value – Average fare per booking.
+
 🛣️ Total Trip Distance – Sum of all trip distances.
+
 This project focuses on converting raw Uber trip data into visual stories that can guide business decisions. The dashboard covers:
 
 - Cancellation trends
