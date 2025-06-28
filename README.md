@@ -9,66 +9,66 @@ An interactive dashboard developed using Power BI to analyze Uber ride data. The
 ## 📌 Project Overview
 ![PBI2](https://github.com/user-attachments/assets/9b82bae3-f7ba-4865-8b25-0e6a7331a99f)
 
-Key KPIs Displayed on Dashboard
-🔢 Total Bookings – Number of completed trip records.
+## 📊 KPI Dashboard Highlights
 
-💰 Total Booking Value – Combined fare of all bookings.
+The dashboard starts with key performance indicators (KPIs) to provide a quick snapshot of Uber's operational metrics:
 
-📏 Average Trip Distance – Mean distance covered per trip.
+- 🔢 **Total Bookings**
+- 💰 **Total Booking Value**
+- 📏 **Average Trip Distance**
+- 💵 **Average Booking Value**
+- 🛣️ **Total Trip Distance**
 
-💵 Average Booking Value – Average fare per booking.
+These KPIs update dynamically based on filters like time, location, and vehicle type.
 
-🛣️ Total Trip Distance – Sum of all trip distances.
-
-This project focuses on converting raw Uber trip data into visual stories that can guide business decisions. The dashboard covers:
-
-- Cancellation trends
-- Time-based ride demand
-- Location-based trip frequency
-- Pickup and drop-off hotspots
-- Actionable KPIs for managers
+**Insight:** While most trips are short-distance, the volume of rides contributes to a high cumulative booking value. SUVs, despite lower volume, deliver higher average revenue per trip.
 
 ---
 
-## ❌ Cancellation Analysis
+## 📌 Project Overview
 
-- Total cancellations by user, driver, and system
-- Time slots and dates with peak cancellations
-- Zones with frequent ride cancellations
+This Uber analytics project focuses on:
 
-**Insight:** High cancellation rates occur in late evenings and less accessible zones.
+- Booking performance and demand trends
+- Pickup and drop-off zone analysis
+- Vehicle category usage and value
+- Understanding cancellations and ride issues
+
+It helps stakeholders interpret ride data through visual storytelling and supports business decisions in operations, marketing, and logistics.
 
 ---
 
 ## 🕰️ Time & Location Analysis
 
-- Demand trends by hour and day
-- Busiest weekdays vs weekends
-- Heatmaps of ride activity over time
+- 📆 **Hourly & Daily Booking Trends** – Identifies peak hours and weekday vs weekend activity
+- 🌍 **Heatmaps & Charts** – Visualizes ride density by region
+- 🧭 **Trip Frequency by Time Slot** – Shows ride volume during different times of the day
 
-**Insight:** Ride volume spikes during morning and evening commute hours.
+**Insight:** Morning (8–10 AM) and evening (5–9 PM) are the busiest windows for ride requests.
 
 ---
 
 ## 🗺️ Pickup & Drop-off Point Analysis
 
-- Most active pickup points (e.g., airports, downtown)
-- Frequent drop-off zones by time of day
-- Common pickup-drop zone combinations
-- Visuals to track movement trends between zones
+- 📍 **Top Pickup Locations** – Airports, offices, shopping districts
+- 🎯 **Common Drop-offs** – Residential areas and malls
+- 🔁 **Pickup–Drop Pairing** – Reveals most traveled routes
 
-**Insight:** Downtown-to-suburb routes are the most common during evening hours.
-
----
-
-## 💡 Key Concepts Highlighted
-
-- Data transformation & cleaning (nulls, formats)
-- Interactive dashboard filtering
-- Storytelling through KPIs and visuals
-- Real-world use cases in transport analytics
+**Insight:** Business-to-residential zone rides dominate during evening hours.
 
 ---
+
+## 🚗 Vehicle Type Analysis
+
+- **Vehicle Categories:** Mini, Sedan, SUV, Auto, Bike
+- Visuals include:
+  - Bookings per vehicle type
+  - Revenue contribution per type
+  - Average distance by vehicle type
+  - Time-of-day usage trends
+
+**Insight:** Minis and Sedans dominate volume, while SUVs have the highest fare per ride. Autos and bikes are preferred for short trips during rush hours.
+
 
 ## 🙋‍♀️ Author
 
