@@ -77,6 +77,8 @@ Aspiring Data Analyst
 📫 [LinkedIn](www.linkedin.com/in/ishwari-gurde-86657a2a2)  
 📧 gurdeishwari294@gmail.com 
 ---
+⚠️ **Disclaimer:** This project is created for educational and demonstration purposes only. It is **not affiliated with, endorsed by, or connected to Uber Technologies, Inc.** in any way.  
+> The data used in this project is **entirely fictional or simulated** and does **not represent actual Uber data or operations**. All brand names and logos are trademarks of their respective owners.
 
 ## 📎 Acknowledgements
 
